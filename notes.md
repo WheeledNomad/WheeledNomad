@@ -1,6 +1,6 @@
 ---
 
-title = "Notes"
+title: "Notes"
 
 ---
 
@@ -37,22 +37,22 @@ I use the terms disabled and disability a lot thought out the site, whenever I u
 
 ## NPR: Not a Product Recommendation
 
-{{< npr >}}
+<%- npr %>
 
 When talking about things in my blog I will often name the brand and model of what I use, this is to make it easier to understand what I'm talking about and to be able to look up a reference for similar items. Anything marked with NPR is not to be taken as a recommendation of that product over any similar product. I am not compensated in anyway by any of the companies / brands that I mention and am not endorsing their products and / or services, just merely using their existence as an example.
 
 ## NCPR: Non-Compensated Product Recommendation
 
-{{< ncpr >}}
+<%- ncpr %>
 
 Sometimes I will recomend a product or service that I use and like, and will tag those recomendations like this. I am not compensated in anyway by any of the companies / brands that I mention but I I am recomending their products and / or services.
 
 
 ## [Wiki] / [Ext]
 
-{{< wiki "Wikipedia" >}}
+<%- wiki('Wikipedia') %>
 
-{{< ext "http://www.wheelednomad.uk/notes/#ref">}}
+<%- ext('http://www.wheelednomad.uk/notes/#ref') %>
 
 These are all used to detonate links to externial reference material, which would be otherwise cluttering up blog posts / pages, the text within the brackets gives you an idea of where the link leads. I will normally try to use <a href="http://en.wikipedia.org">Wikipedia.org</a> where possible using the link [Wiki], as their articles are normally fairly well referenced and researched, but sometimes that's not possible so other sites may be used under the [Ext] reference.
 

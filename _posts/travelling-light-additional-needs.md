@@ -1,21 +1,16 @@
 ---
 
-title = "Travelling Light with Additional Needs"
-slug = "travelling-light-additional-needs"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Travelling Light with Additional Needs"
+recommended: false
 
-publishDate = "2016-01-01"
-date = "2016-11-22"
-draft = false
+date: 2016-01-01
+updated: 2016-11-22
 
-topics = [ "General", "Luggage" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ ]
+topics: [ "General", "Luggage" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = "A pile of assorted backpacks and travel bags in front of closed wardrobe."
+image: true
+imageAltText: "A pile of assorted backpacks and travel bags in front of closed wardrobe."
 
 ---
 

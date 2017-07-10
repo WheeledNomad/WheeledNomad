@@ -1,21 +1,16 @@
 ---
 
-title = "Wheelchair Luggage"
-slug = "wheelchair-luggage"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Wheelchair Luggage"
+recommended: false
 
-publishDate = "2016-01-01"
-date = "2016-07-06"
-draft = false
+date: 2016-01-01
+updated: 2016-07-06
 
-topics = [ "Kit", "Luggage", "Wheelchair" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ ]
+topics: [ "Kit", "Luggage", "Wheelchair" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = "Alt text"
+image: true
+imageAltText: "Alt text"
 
 ---
 
@@ -25,7 +20,7 @@ A lot of people go for a single large backpack with everything in hooked over th
 
 The best place I've found to carry a bag that contains the things I would be worried about someone attempting to steal is slung under my wheelchair, if you have a folding chair is is possible to sling a small bag between the back of your legs and the folding mechenism. With a ridged wheelchair there is space all the way back to the axel bar of your chair, so with front and back slings you can attach a quite a large bag. Unfortunatly this only really works on self propelled chair, as most power chairs tend to have their battiers and motor under their seat so don't have the space to accomdate a bag. Having said that some have as much space as a folding self propelled chair so a small bag might be possible.
 
-Finally I have a set of fold down forks that I can add to the uprights of the foot place on my wheelchair, which will allow me to add another bag infront of my legs. For my make of wheelchair they are called the Quickie Caddy{{< npr >}} (Sunrise Part Number: 902350), but other manfacturers make simlar devices for their wheelchairs as well. While these seemed like a great idea when I bought them they turned out not to be so useful, as all you have a two thin sticks jutting out from the front of your chair. A soft bag will sag and normally just fall off if you have to stop quickly or go down a slope, using a hard bag and a bungy cord helps, but leads to the case pressing against your legs or knees which just lead to pressure sores for me. So these have been mostly consigned to the interesting parts box at home, I still get them out from time to time when I need to carry the hard case with my DJ equipment in, which I only carry for really short durations so isn't an issue. But I wouldn't like to try and travel for a long time with luggage attached in this way.
+Finally I have a set of fold down forks that I can add to the uprights of the foot place on my wheelchair, which will allow me to add another bag infront of my legs. For my make of wheelchair they are called the Quickie Caddy<%- npr %> (Sunrise Part Number: 902350), but other manfacturers make simlar devices for their wheelchairs as well. While these seemed like a great idea when I bought them they turned out not to be so useful, as all you have a two thin sticks jutting out from the front of your chair. A soft bag will sag and normally just fall off if you have to stop quickly or go down a slope, using a hard bag and a bungy cord helps, but leads to the case pressing against your legs or knees which just lead to pressure sores for me. So these have been mostly consigned to the interesting parts box at home, I still get them out from time to time when I need to carry the hard case with my DJ equipment in, which I only carry for really short durations so isn't an issue. But I wouldn't like to try and travel for a long time with luggage attached in this way.
 
 A lot of it will depend on what type of wheelchair you have as the different types of wheelchairs have different spaces that allow of the attachment of luggage. As I said previously powerchairs are the easiest to attach luggage to, their high weight and low centre of gravity means it quite easy to sling a normal walking backpack on the back and off you go. Their wheels tend to be smaller and out of the way so it's also easy to keep straps from the bag from getting tangled in the wheels.
 
@@ -39,7 +34,7 @@ This is the bag that goes everywhere with me, it's fairly small and contains jus
 
 ### Dayout Bag
 
-My dayout bag is an EastPak Gibbs{{< ncpr >}}, it is slung underath my seat and has been hacked with the inclusion two aluminum struts to give the bag a frame and stop it sagging. 
+My dayout bag is an EastPak Gibbs<%- ncpr %>, it is slung underath my seat and has been hacked with the inclusion two aluminum struts to give the bag a frame and stop it sagging. 
 
 ### Travel Bag
 

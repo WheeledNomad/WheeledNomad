@@ -1,21 +1,16 @@
 ---
 
-title = "Traveling with Technology"
-slug = "traveling-with-technology"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Traveling with Technology"
+recommended: false
 
-publishDate = "2016-07-01"
-date = "2016-07-01"
-draft = true
+date: 2016-07-01
+updated: 2016-07-01
 
-topics = [ "Kit", "Technology" ]
-disabilities = [ ]
-content = [ ]
+topics: [ "Kit", "Technology" ]
+disabilities: [ ]
 
-image = false
-imageAltText = ""
+image: false
+imageAltText: ""
 
 ---
 

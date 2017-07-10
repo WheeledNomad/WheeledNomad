@@ -1,21 +1,16 @@
 ---
 
-title = "Eastpak Travel Tote Weaber"
-slug = "eastpak-travel-tote-weaber"
-recommended = false
-weight = "10"
-frontPage = false
+title: "Eastpak Travel Tote Weaber"
+recommended: false
 
-publishDate = "2016-11-01"
-date = "2016-11-17"
-draft = true
+date: 2016-11-01
+updated: 2016-11-17
 
-topics = [ "Review" ]
-disabilities = [ "Wheelchair User", "Autism" ]
-content = [ ]
+topics: [ "Review" ]
+disabilities: [ "Wheelchair User", "Autism" ]
 
-image = true
-imageAltText = ""
+image: true
+imageAltText: ""
 
 ---
 

@@ -1,21 +1,16 @@
 ---
 
-title = "Travel Bag"
-slug = "bags-travel"
-recommended = false
-weight = "10"
-frontPage = false
+title: "Travel Bag"
+recommended: false
 
-publishDate = "2016-07-01"
-date = "2016-07-01"
-draft = true
+date: 2016-07-01
+updated: 2016-07-01
 
-travel = [ "Bags", "Luggage" ]
-topics = [ ]
-content = [ ]
+travel: [ "Bags", "Luggage" ]
+topics: [ ]
 
-image = false
-imageAltText = ""
+image: false
+imageAltText: ""
 
 ---
 

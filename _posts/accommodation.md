@@ -1,29 +1,22 @@
 ---
+title: "Accommodation"
+recommended: false
 
-title = "Accommodation"
-slug = "accommodation"
-recommended = false
-weight = "10"
-frontPage = true
+date: 2016-07-01
+updated: 2016-11-17
 
-publishDate = "2016-07-01"
-date = "2016-11-17"
-draft = false
+topics: [ "Accommodation" ]
+disabilities: [ "Wheelchair User", "Autism" ]
 
-topics = [ "Accommodation" ]
-disabilities = [ "Wheelchair User", "Autism" ]
-content = [ ]
-
-image = true
-imageAltText = ""
-
+image: true
+imageAltText: ""
 ---
 
 If you read a lot of backpacking websites you'd be forgiven for thinking that to have adventures when travelling you need to stay in cool quirky hostels. Which can really daunting when you're a disabled backpacker as knowing that your accommodation is accessible to you is an important thing for making the trip. Despite what backpacking websites will have you believe you can have just as awesome an experience staying in chain hotels with perceptible accessibility as you can staying in completely inaccessible quirky hostels.<!--more--> 
 
 ## Hostels
 
-Hostels are good if you like a social experience when you're travelling, but they're not for everyone, they can vary from perfectly accessible to completely inaccessible. A lot of the larger chains like the YHA{{< npr >}} have accessibility information on their website, smaller ones tend to require phoning for accessibility information. Their cheap accommodation tends to be in dorms which will be either single or mixed gender, with single gender but shared facilities. While most offer private rooms, some even with en-suite these can be as expensive as a budget hotel room. But have the advantage of the social centres and self catering facilities that hostels have. 
+Hostels are good if you like a social experience when you're travelling, but they're not for everyone, they can vary from perfectly accessible to completely inaccessible. A lot of the larger chains like the YHA<%- npr %> have accessibility information on their website, smaller ones tend to require phoning for accessibility information. Their cheap accommodation tends to be in dorms which will be either single or mixed gender, with single gender but shared facilities. While most offer private rooms, some even with en-suite these can be as expensive as a budget hotel room. But have the advantage of the social centres and self catering facilities that hostels have. 
 
 I would say that hostels are a great choice if you are looking for a more social travelling experience. You need to be able to live in some shared space with people to be able to really appreciate them. For most it also helps be able to cope with the somewhat more party lifestyle of the other people you'll be sharing the common areas with.
 

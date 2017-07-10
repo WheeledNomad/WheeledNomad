@@ -1,21 +1,16 @@
 ---
 
-title = "Solo Wheelchair Backpacking"
-slug = "solo-wheelchair-backpacking"
-recommended = true
-weight = "2"
-frontPage = true
+title: "Solo Wheelchair Backpacking"
+recommended: true
 
-publishDate = "2016-01-01"
-date = "2016-01-02"
-draft = false
+date: 2016-01-01
+updated: 2016-01-02
 
-topics = [ "General" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ ]
+topics: [ "General" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = "A side photograph of a Quickie Helium wheelchair, it has a matt blue anodised frame with black upholstery. There is a black and blue shoulder bag that has been modified to hang under the seat. On the back of the wheelchair there is a black backpack, attached through the rear cross bar. Above the backpack there are a pair of sandals and a blue sleeve containing a water bottle."
+image: true
+imageAltText: "A side photograph of a Quickie Helium wheelchair, it has a matt blue anodised frame with black upholstery. There is a black and blue shoulder bag that has been modified to hang under the seat. On the back of the wheelchair there is a black backpack, attached through the rear cross bar. Above the backpack there are a pair of sandals and a blue sleeve containing a water bottle."
 
 ---
 

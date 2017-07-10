@@ -1,21 +1,16 @@
 ---
 
-title = "National Express"
-slug = "national-express"
-recommended = false
-weight = "10"
-frontPage = false
+title: "National Express"
+recommended: false
 
-publishDate = "2016-12-07"
-date = "2016-12-09"
-draft = false
+date: 2016-12-07
+updated: 2016-12-09
 
-topics = [ "Review", "Wheelchair", "Public Transport", "Coaches" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ ]
+topics: [ "Review", "Wheelchair", "Public Transport", "Coaches" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = ""
+image: true
+imageAltText: ""
 
 ---
 

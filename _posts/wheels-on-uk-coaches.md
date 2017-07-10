@@ -1,21 +1,16 @@
 ---
 
-title = "Wheels on UK Coaches"
-slug = "wheels-on-uk-coaches"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Wheels on UK Coaches"
+recommended: false
 
-publishDate = "2016-12-07"
-date = "2016-12-08"
-draft = true
+date: 2016-12-07
+updated: 2016-12-08
 
-topics = [ "Wheelchair", "Public Transport", "Coaches" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ ]
+topics: [ "Wheelchair", "Public Transport", "Coaches" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = ""
+image: true
+imageAltText: ""
 
 ---
 

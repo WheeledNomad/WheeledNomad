@@ -1,21 +1,16 @@
 ---
 
-title = "Wheels on UK Trains"
-slug = "wheels-on-uk-trains"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Wheels on UK Trains"
+recommended: false
 
-publishDate = "2016-07-01"
-date = "2016-07-01"
-draft = true
+date: 2016-07-01
+updated: 2016-07-01
 
-topics = [ "Wheelchair", "Public Transport", "Trains" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ ]
+topics: [ "Wheelchair", "Public Transport", "Trains" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = ""
+image: true
+imageAltText: ""
 
 ---
 

@@ -1,21 +1,17 @@
 ---
 
-title = "Wheels on UK Public Transport"
-slug = "wheels-on-uk-public-transport"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Wheels on UK Public Transport"
+recommended: false
 
-publishDate = "2016-11-12"
-date = "2016-11-12"
-draft = true
+date: 2016-11-12
+updated: 2016-11-12
+draft: true
 
-travel = [ "Wheelchair", "Public Transport", "Buses", "Trains", "Trams", "Tube", "Coaches" ]
-topics = [ ]
-content = [ ]
+travel: [ "Wheelchair", "Public Transport", "Buses", "Trains", "Trams", "Tube", "Coaches" ]
+topics: [ ]
 
-image = false
-imageAltText = ""
+image: false
+imageAltText: ""
 
 ---
 

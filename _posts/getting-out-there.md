@@ -1,21 +1,16 @@
 ---
 
-title = "Getting Out There"
-slug = "getting-out-there"
-recommended = true
-weight = "1"
-frontPage = true
+title: "Getting Out There"
+recommended: true
 
-publishDate = "2016-01-01"
-date = "2016-11-21"
-draft = false
+date: 2016-01-01
+updated: 2016-11-21
 
-travel = [ "General" ]
-topics = [ "Wheelchair", "Autism" ]
-content = [ ]
+travel: [ "General" ]
+topics: [ "Wheelchair", "Autism" ]
 
-image = true
-imageAltText = "A picture looking down a railway station platform, it's evening and the ground is wet from previous rain. To the left there is a Meridian train in East Midlands Trains colours. In the middle foreground there is a person on a wheelchair moving away from the camera. To the right there are pillars supporting an overhead canopy."
+image: true
+imageAltText: "A picture looking down a railway station platform, it's evening and the ground is wet from previous rain. To the left there is a Meridian train in East Midlands Trains colours. In the middle foreground there is a person on a wheelchair moving away from the camera. To the right there are pillars supporting an overhead canopy."
 
 ---
 

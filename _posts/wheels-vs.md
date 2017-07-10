@@ -1,21 +1,15 @@
 ---
 
-title = "Wheels vs"
-slug = "wheels-vs"
-recommended = false
-weight = "10"
-frontPage = true
+title: "Wheels vs"
 
-publishDate = "2016-06-17"
-date = "2016-07-01"
-draft = false
+date: 2016-06-17
+updated: 2016-07-01
 
-topics = [ "Public Transport", "Buses", "Trains", "Wheelchair" ]
-disabilities = [ "Wheelchair Users" ]
-content = [ "Ableism" ]
+topics: [ "Public Transport", "Buses", "Trains", "Wheelchair" ]
+disabilities: [ "Wheelchair Users" ]
 
-image = true
-imageAltText = ""
+image: true
+imageAltText: "Image Alt Text"
 
 ---
 
