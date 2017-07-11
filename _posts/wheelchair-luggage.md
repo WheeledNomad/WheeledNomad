@@ -6,7 +6,8 @@ recommended: false
 date: 2016-01-01
 updated: 2016-07-06
 
-topics: [ "Kit", "Luggage", "Wheelchair" ]
+categories: [ all ]
+tags: [ "Kit", "Luggage", "Wheelchair" ]
 disabilities: [ "Wheelchair Users" ]
 
 image: true

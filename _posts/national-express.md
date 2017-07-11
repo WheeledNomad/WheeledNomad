@@ -6,7 +6,8 @@ recommended: false
 date: 2016-12-07
 updated: 2016-12-09
 
-topics: [ "Review", "Wheelchair", "Public Transport", "Coaches" ]
+categories: [ all ]
+tags: [ "Review", "Wheelchair", "Public Transport", "Coaches" ]
 disabilities: [ "Wheelchair Users" ]
 
 image: true

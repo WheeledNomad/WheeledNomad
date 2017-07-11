@@ -5,7 +5,8 @@ recommended: false
 date: 2016-07-01
 updated: 2016-11-17
 
-topics: [ "Accommodation" ]
+categories: [ all ]
+tags: [ "Accommodation" ]
 disabilities: [ "Wheelchair User", "Autism" ]
 
 image: true

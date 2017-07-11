@@ -6,7 +6,8 @@ recommended: false
 date: 2016-11-01
 updated: 2016-11-17
 
-topics: [ "Review" ]
+categories: [ all ]
+tags: [ "Review" ]
 disabilities: [ "Wheelchair User", "Autism" ]
 
 image: true

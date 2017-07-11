@@ -7,7 +7,8 @@ date: 2016-07-01
 updated: 2016-07-01
 
 travel: [ "Kit", "Technology" ]
-topics: [ "Photography" ]
+categories: [ all ]
+tags: [ "Photography" ]
 
 image: true
 imageAltText: "Three cameras with a iPhone in front of them. Left to right the cameras are a Lumix TZ-40, a Nikon D3100, and a Lumix GF6. There are arranged in a semi-circle, on a blue background, with a iPhone 6 smart phone in front of them back side facing up."

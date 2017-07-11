@@ -6,7 +6,8 @@ recommended: true
 date: 2016-01-01
 updated: 2016-01-02
 
-topics: [ "General" ]
+categories: [ all ]
+tags: [ "General" ]
 disabilities: [ "Wheelchair Users" ]
 
 image: true

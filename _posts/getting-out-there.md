@@ -7,7 +7,8 @@ date: 2016-01-01
 updated: 2016-11-21
 
 travel: [ "General" ]
-topics: [ "Wheelchair", "Autism" ]
+categories: [ all ]
+tags: [ "Wheelchair", "Autism" ]
 
 image: true
 imageAltText: "A picture looking down a railway station platform, it's evening and the ground is wet from previous rain. To the left there is a Meridian train in East Midlands Trains colours. In the middle foreground there is a person on a wheelchair moving away from the camera. To the right there are pillars supporting an overhead canopy."

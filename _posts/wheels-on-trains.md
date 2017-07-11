@@ -6,7 +6,8 @@ recommended: false
 date: 2016-07-01
 updated: 2016-07-01
 
-topics: [ "Wheelchair", "Public Transport", "Trains" ]
+categories: [ all ]
+tags: [ "Wheelchair", "Public Transport", "Trains" ]
 disabilities: [ "Wheelchair Users" ]
 
 image: true
