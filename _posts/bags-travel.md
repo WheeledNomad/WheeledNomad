@@ -7,7 +7,7 @@ date: 2016-07-01
 updated: 2016-07-01
 
 travel: [ "Bags", "Luggage" ]
-categories: [ all ]
+categories: [ posts ]
 tags: [ ]
 
 image: false

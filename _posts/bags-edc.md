@@ -6,7 +6,7 @@ recommended: false
 date: 2016-07-01
 updated: 2016-11-18
 
-categories: [ all ]
+categories: [ posts ]
 tags: [ "Bags", "Luggage" ]
 disabilities: [ ] 
 

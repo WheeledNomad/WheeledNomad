@@ -6,7 +6,7 @@ recommended: false
 date: 2016-07-01
 updated: 2016-07-01
 
-categories: [ all ]
+categories: [ posts ]
 tags: [ "Kit", "Technology" ]
 disabilities: [ ]
 

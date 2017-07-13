@@ -6,7 +6,7 @@ recommended: true
 date: 2012-04-06
 updated: 2016-05-23
 
-categories: [ all ]
+categories: [ posts ]
 tags: [ "Thoughts", "Writing", "Rants" ]
 disabilities: [ "Wheelchair Users" ]
 
