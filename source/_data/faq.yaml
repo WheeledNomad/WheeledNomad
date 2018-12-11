@@ -6,56 +6,132 @@
   weight: 1
   questions:
     -
+      question: Why do you word things in a weird way ? / What's up with the way you talk ?
+      answer: While I post all my internet content in English it is not my first language, so sometimes I don't word things quite the way a native English speaker would expect or don't have exactly the right words to say it in a typical English way.
+      weight: 1
+    -
+      question: Why can't I comment on anything on your website ?
+      answer: The lack of ability to comment on blog posts on my website is deliberate. This site is run as my hobby and I have a limited amount of time and energy that I can direct towards it, so I do not want to be loosing time spent working on my site dealing with the amount of spam that any site that has comments enabled gets nor with the inevitable flame wars that erupt between people in comments. While it would be possible to limit both of these by having some form of registration, either in the site itself or though a social media site that would mean opening the site up to having software that would track individual visitors, which is something that I do not want to do.
+      weight: 20
+    -
+      question: I really want to say something about something you've posted, how do I ?
+      answer: You can drop me an @ on twitter [@WheeledNomad](https://twitter.com/WheeledNomad) or post a comment on my [YouTube Channel](https://www.youtube.com/wheelednomad) ( YouTube comments are moderated and won't appear until I aprove it to limit spam ).
+      weight: 21
+    -
+      question: I @ed you / left you a comment but you didn't reply / blocked me
+      answer: If I haven't replied the main reason is I haven't had time to check my @s / comments ( remember this is a hobby for me I have a life and other commitments outside of the internet ) and will get round to it as soon as I can. If I've blocked you it's because you've tried to debate something with me or are just ( in my mind at least ) trying to troll or annoy me. Again this is my hobby if you want to debate things that I've talked about there are others out there who talk about the same topics and will happily debate with you, please seek them out.
+      weight: 22
+    -
       question:
       answer:
-      weight:
+      weight: 23
+    -
+      question: Why do you redo some videos ?
+      answer:
+      weight: 10
+    -
+      question:
+      answer:
+      weight: 10
+    -
+      question:
+      answer:
+      weight: 10
 
--
-  group: About Me
+  -
+  group: Travel
   description:
   weight: 2
   questions:
     -
+      question: Do you travel full time ?
+      answer: No, due to my health it is not possible to travel full time. I have a garage that I return to when I'm needing time to rest or when funds prevent me from travelling.
+      weight: 1
+    -
+      question: How many differnt countries have you visited ?
+      answer: In the past I have visited x different countries and 6 of 7 continents ( with only Oceana left to visit ), but in 2019 I started keeping a map of the different places that I've visited which will be only at some point in 2019
+      weight: 2     
+    -
+      question: 
+      answer:
+      weight: 10
+
+-
+  group: About Me
+  description:
+  weight: 3
+  questions:
+    -
       question: How old are you ?
-      answer: I'm a child of '85, so I'm currently 34 but that might be out of date 
-      weight:
+      answer: I'm a child of '85, so I'm currently 34 but that might be out of date.
+      weight: 99
+    -
+      question: What's your first language and how many languages do you speak ?
+      answer: My first language is British Sign Language, I was Deaf until I was 6 years old so didn't learn to speak English until I was 8. Over my life I have learned several languages including Urdu, Punjabi, Arbic, Polish, Romainian, and French. I am currently also learning Hindi and Spanish.
+      weight: 10
+    -
+      question: Where are you from ?
+      answer: I was born and currently in the UK
+      weight: 10
+    -
+      question:
+      answer:
+      weight: 10
+    -
+      question:
+      answer:
+      weight: 10
 
 -
   group: EDS and Wheelchair User
   description:
-  weight: 3
+  weight: 4
   questions:
     - 
       question: Why the Wheels?
       answer: I have [Myopathic Ehlers Danlos Syndrome (mEDS)](https://ehlers-danlos.com/eds-types/#mEDS), which causes me chronic pain and means that I'm not able to walk any real distance. While I'm a part time wheelchair user and can stand up out of my wheels and walk, it is at the cost of pain and the high risk that I'll collaspe. If I do collaspe I am unable to get back up, so my wheels are necessary most of the times that I'm out and about.
-      weight:
+      weight: 1
     -
       question: Pain killers ?
       answer: My condition also gives me chronic pain which I'm prescribed strong pain killers for, which can make travel difficult, and has resulted in some funny stories along the way.
-      weight: 
+      weight: 10
 
 -
   group: Intersex and Gender
   description:
-  weight: 4
-  questions:
-    -
-      question:
-      answer:
-      weight:
-
--
-  group: Neuroatypical
-  description:
   weight: 5
   questions:
     -
+	    question: What is your intersex condition ?
+	    answer: My intersex condition is [Partial Androgen Insensitivity Syndrome (PAIS)](https://en.wikipedia.org/wiki/Partial_androgen_insensitivity_syndrome) .
+      weight: 1
+    -
+      question: Are you a man or a woman ?
+      answer: No, I am not a man or a woman
+      weight: 2
+    -
+	    question: Were you born male or female ?
+	    answer: My intersex condition was identified at birth, so I was assigned 'unclassified' by the doctors pending a decision from my parents about what gender I should be surgecially altered to and my birth certificate updated up. Thankfully for me this did not happen and I consider myself one the lucky few who weren't assigned a gender at birth.
+	    weight: 3
+    -
+      question: Why do you were womens / mens clothes ?
+      answer: I just wear what clothes I like and ignore the gender labels that society attaches to them, 
+      weight: 4
+    -
+      question: Are you transgender / trans ?
+	    answer: I personally do not identify as transgender / trans, but as I have a gender identity falls outside of the western understanding of male or female. So by western standards I am generally considered a nonbinary person and fall under the transgender umbrella.
+      weight: 5
+    -
+      question: Does being intersex make you transgender / trans ?
+      answer: No, being intersex does not make me transgender, anymore than being transgender would make me intersex. It is important to recognise that many intersex people are not transgender. While there are some intersex people who are also transgender / trans being intersex does not automatically make you transgender. Intersex people are only transgender / trans if that is a label that they have chosen for themselves.
+      weight: 6
+    -
       question:
       answer:
-      weight:
+      weight: 10
 
 -
-  group: Asexuality and Relationships
+  group: Neuroatypical
   description:
   weight: 6
   questions:
@@ -65,11 +141,21 @@
       weight:
 
 -
-  group: Misc
+  group: Asexuality and Relationships
   description:
   weight: 7
   questions:
     -
       question:
       answer:
-      weight:
+      weight: 10
+
+-
+  group: Misc
+  description:
+  weight: 8
+  questions:
+    -
+      question:
+      answer:
+      weight: 10
