@@ -22,7 +22,7 @@
       answer: If I haven't replied the main reason is I haven't had time to check my @s / comments ( remember this is a hobby for me I have a life and other commitments outside of the internet ) and will get round to it as soon as I can. If I've blocked you it's because you've tried to debate something with me or are just ( in my mind at least ) trying to troll or annoy me. Again this is my hobby if you want to debate things that I've talked about there are others out there who talk about the same topics and will happily debate with you, please seek them out.
       weight: 22
     -
-      question:
+      question: Why can I not see your YouTube subscriber count / likes and dislikes ?
       answer:
       weight: 23
     -
@@ -38,7 +38,7 @@
       answer:
       weight: 10
 
-  -
+-
   group: Travel
   description:
   weight: 2
