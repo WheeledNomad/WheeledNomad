@@ -1,0 +1,3 @@
+[submodule "themes/2019-theme"]
+	path = themes/2019-theme
+	url = https://github.com/WheeledNomad/2019-theme.git
