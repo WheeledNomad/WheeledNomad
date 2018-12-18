@@ -3,7 +3,7 @@
 title: "Getting Out There"
 recommended: true
 
-draft: true
+draft: false
 date: 2016-01-01
 updated: 2016-11-21
 

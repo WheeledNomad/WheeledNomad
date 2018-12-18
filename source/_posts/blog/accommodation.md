@@ -2,7 +2,7 @@
 title: "Accommodation"
 recommended: false
 
-draft: true
+draft: false
 date: 2016-07-01
 updated: 2016-11-17
 
