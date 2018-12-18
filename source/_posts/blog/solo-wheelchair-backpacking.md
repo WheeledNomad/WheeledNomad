@@ -3,6 +3,7 @@
 title: "Solo Wheelchair Backpacking"
 recommended: true
 
+draft: true
 date: 2016-01-01
 updated: 2016-01-02
 
