@@ -1,7 +1,7 @@
 # FAQ for WheeledNomad
 
 -
-  group: Youtube and Website
+  grouptitle: Youtube and Website
   description: Something
   weight: 1
   questions:
@@ -23,11 +23,11 @@
       weight: 22
     -
       question: Why can I not see your YouTube subscriber count / likes and dislikes ?
-      answer:
+      answer: ToDo
       weight: 23
     -
       question: Why do you redo some videos ?
-      answer:
+      answer: ToDo
       weight: 10
     -
       question:
@@ -39,7 +39,7 @@
       weight: 10
 
 -
-  group: Travel
+  grouptitle: Travel
   description:
   weight: 2
   questions:
@@ -57,7 +57,7 @@
       weight: 10
 
 -
-  group: About Me
+  grouptitle: About Me
   description:
   weight: 3
   questions:
@@ -83,7 +83,7 @@
       weight: 10
 
 -
-  group: EDS and Wheelchair User
+  grouptitle: EDS and Wheelchair User
   description:
   weight: 4
   questions:
@@ -97,7 +97,7 @@
       weight: 10
 
 -
-  group: Intersex and Gender
+  grouptitle: Intersex and Gender
   description:
   weight: 5
   questions:
@@ -131,7 +131,7 @@
       weight: 10
 
 -
-  group: Neuroatypical
+  grouptitle: Neuroatypical
   description:
   weight: 6
   questions:
@@ -141,7 +141,7 @@
       weight:
 
 -
-  group: Asexuality and Relationships
+  grouptitle: Asexuality and Relationships
   description:
   weight: 7
   questions:
@@ -151,7 +151,7 @@
       weight: 10
 
 -
-  group: Misc
+  grouptitle: Misc
   description:
   weight: 8
   questions:
