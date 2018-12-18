@@ -5,7 +5,7 @@ title: "Wheels vs"
 date: 2016-06-17
 updated: 2016-07-01
 
-categories: [ posts ]
+categories: [ blog ]
 topics: [ "Public Transport", "Buses", "Trains", "Wheelchair" ]
 disabilities: [ "Wheelchair Users" ]
 

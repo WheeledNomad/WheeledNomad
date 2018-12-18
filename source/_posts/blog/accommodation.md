@@ -5,7 +5,7 @@ recommended: false
 date: 2016-07-01
 updated: 2016-11-17
 
-categories: [ posts ]
+categories: [ blog ]
 tags: [ "Accommodation" ]
 disabilities: [ "Wheelchair User", "Autism" ]
 

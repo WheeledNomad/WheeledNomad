@@ -6,7 +6,7 @@ recommended: false
 date: 2016-11-01
 updated: 2016-11-17
 
-categories: [ posts ]
+categories: [ blog ]
 tags: [ "Review" ]
 disabilities: [ "Wheelchair User", "Autism" ]
 

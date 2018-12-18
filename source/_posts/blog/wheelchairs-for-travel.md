@@ -6,7 +6,7 @@ recommended: false
 date: 2016-01-01
 updated: 2016-01-05
 
-categories: [ posts ]
+categories: [ blog ]
 tags: [ "Kit", "Wheelchair" ]
 disabilities: [ "Wheelchair Users" ]
 

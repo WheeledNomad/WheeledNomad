@@ -7,7 +7,7 @@ date: 2016-07-01
 updated: 2016-07-01
 
 travel: [ "Kit", "Technology" ]
-categories: [ posts ]
+categories: [ blog ]
 tags: [ "Photography" ]
 
 image: true

@@ -8,7 +8,7 @@ updated: 2016-11-12
 draft: true
 
 travel: [ "Wheelchair", "Public Transport", "Buses", "Trains", "Trams", "Tube", "Coaches" ]
-categories: [ posts ]
+categories: [ blog ]
 tags: [ ]
 
 image: false

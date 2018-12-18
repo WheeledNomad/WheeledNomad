@@ -6,7 +6,7 @@ recommended: false
 date: 2016-01-01
 updated: 2016-11-22
 
-categories: [ posts ]
+categories: [ blog ]
 tags: [ "General", "Luggage" ]
 disabilities: [ "Wheelchair Users" ]
 
@@ -17,7 +17,7 @@ imageAltText: "A pile of assorted backpacks and travel bags in front of closed w
 
 If you look at a lot of solo travel or backpacking sites one of the big themes you'll pick up on is trying to keep the amount of kit that you take away with you as small as possible. Which I personally think is a good idea and a wonderful travel philosophy to aspire to. But it can be a little disheartening to read as a disabled person. But there are very good reasons as a disabled person to ignore this branch of abled travel advice.<!--more--> 
 
-As disabled travellers we are almost always going to have to carry more kit with us, and that means having larger and possibly heavier luggage. I go into types of luggage and carry it in more depth in my writing about [Wheelchair Luggage](/articles/wheelchair-luggage/) or in the [luggage topic](/categories: [ posts ]
+As disabled travellers we are almost always going to have to carry more kit with us, and that means having larger and possibly heavier luggage. I go into types of luggage and carry it in more depth in my writing about [Wheelchair Luggage](/articles/wheelchair-luggage/) or in the [luggage topic](/categories: [ blog ]
 tags/luggage), so I'll skip over how, this is more about the why.
 
 The main root of the philosophy of travelling as light as possible comes from two reasons:

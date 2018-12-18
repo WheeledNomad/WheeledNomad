@@ -7,7 +7,7 @@ date: 2016-01-01
 updated: 2016-11-21
 
 travel: [ "General" ]
-categories: [ posts ]
+categories: [ blog ]
 tags: [ "Wheelchair", "Autism" ]
 
 image: true
