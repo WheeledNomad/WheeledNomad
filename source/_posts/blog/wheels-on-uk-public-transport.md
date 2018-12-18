@@ -6,7 +6,6 @@ recommended: false
 draft: true
 date: 2016-11-12
 updated: 2016-11-12
-draft: true
 
 travel: [ "Wheelchair", "Public Transport", "Buses", "Trains", "Trams", "Tube", "Coaches" ]
 categories: [ blog ]
