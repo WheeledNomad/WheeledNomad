@@ -4,8 +4,8 @@ title: "Eastpak Travel Tote Weaber"
 recommended: false
 
 draft: true
-date: 2016-11-01
-updated: 2016-11-17
+date: 2006-11-01
+updated: 2006-11-17
 
 categories: [ blog ]
 tags: [ "Review" ]
