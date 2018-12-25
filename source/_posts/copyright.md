@@ -1,6 +1,7 @@
 ---
 
 title: "Copyright"
+layout: page
 
 ---
 
